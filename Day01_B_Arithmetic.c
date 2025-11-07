@@ -1,3 +1,5 @@
+//Write a program to input two numbers and display their sum, difference, product, and quotient.
+
 #include<stdio.h>
 int main(){
 float num1, num2;
@@ -18,4 +20,5 @@ printf("Quotient: Undefined (division by zero)\n");
     }
 
     return 0;
+
 }
